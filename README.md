@@ -48,7 +48,7 @@ Download the latest ckpoolmonitor.py file from the "Releases" section: https://g
 Start the application from the terminal running the below command:
 
 ```bash
-python3 minerdashboard.py
+python3 ckpoolmonitor.py
 ```
 
 <br>
